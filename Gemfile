@@ -38,6 +38,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rswag'
 
+gem 'swagger-docs'
+
 group :development, :test do
   gem "rspec-rails"
   gem "rswag-specs"

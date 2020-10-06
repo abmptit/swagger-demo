@@ -159,6 +159,9 @@ GEM
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
     sqlite3 (1.4.2)
+    swagger-docs (0.2.9)
+      activesupport (>= 3)
+      rails (>= 3)
     thor (1.0.1)
     thread_safe (0.3.6)
     tzinfo (1.2.7)
@@ -182,6 +185,7 @@ DEPENDENCIES
   rswag
   rswag-specs
   sqlite3 (~> 1.4)
+  swagger-docs
   tzinfo-data
 
 RUBY VERSION
