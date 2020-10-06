@@ -178,8 +178,9 @@ DEPENDENCIES
   byebug
   puma (~> 4.1)
   rails (~> 6.0.3, >= 6.0.3.3)
-  rspec-rails (~> 3.5)
+  rspec-rails
   rswag
+  rswag-specs
   sqlite3 (~> 1.4)
   tzinfo-data
 
